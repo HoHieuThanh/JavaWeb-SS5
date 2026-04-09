@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{layout/main-layout}">
+<head>
+    <meta charset="UTF-8">
+    <title>Danh sách món ăn - Bài 2</title>
+</head>
+<body>
+<div layout:fragment="content">
+<h2>Thực đơn nhà hàng</h2>
+
+<p th:if="${dishes == null or #lists.isEmpty(dishes)}">
+    Hiện tại nhà hàng đang cập nhật thực đơn, vui lòng quay lại sau
+</p>
+
+<table border="1" th:if="${dishes != null and !#lists.isEmpty(dishes)}">
+    <tr>
+        <th>ID</th>
+        <th>Tên món</th>
+        <th>Giá</th>
+        <th>Trạng thái</th>
+        <th>Hành động</th>
+    </tr>
+
+    <tr th:each="d : ${dishes}">
+        <td th:text="${d.id}"></td>
+        <td th:text="${d.name}"></td>
+        <td th:text="${d.price}"></td>
+
+        <td>
+            <span th:if="${d.available}" style="color:green">Còn hàng</span>
+            <span th:unless="${d.available}" style="color:red">Hết hàng</span>
+        </td>
+        <td>
+            <a th:href="@{/bai3/edit/{id}(id=${d.id})}">Chỉnh sửa</a>
+        </td>
+    </tr>
+</table>
+
+</div>
+</body>
+</html>

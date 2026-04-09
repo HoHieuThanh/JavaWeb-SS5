@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Bài 5</title>
+</head>
+<body>
+
+<h2>Đặt món nhanh</h2>
+
+<table border="1">
+    <tr>
+        <th>Tên món</th>
+        <th>Giá</th>
+        <th>Số lượng</th>
+        <th>Tổng</th>
+    </tr>
+
+    <tr>
+        <td>Cơm</td>
+        <td>10000</td>
+        <td>2</td>
+        <td>20000</td>
+    </tr>
+
+    <tr th:each="i : ${order.items}">
+        <td th:text="${i.name}">Tên</td>
+        <td th:text="${i.price}">0</td>
+        <td th:text="${i.quantity}">0</td>
+        <td th:text="${i.total}">0</td>
+    </tr>
+
+</table>
+
+<h3>Tổng tiền: <span th:text="${order.total}">0</span></h3>
+
+</body>
+</html>

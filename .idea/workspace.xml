@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2238b50-b304-4a29-8e07-e6b3fc7a58b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../SS1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/main/java/org/example/ex5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/main/java/org/example/ex5/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/main/java/org/example/ex5/model/SystemConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/main/java/org/example/thuchanh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/main/java/org/example/thuchanh/README.rd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/main/java/org/example/thuchanh/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/main/java/org/example/thuchanh/service/AlertService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/main/java/org/example/thuchanh/service/PlaySessionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/main/java/org/example/thuchanh/service/PopupAlertService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/main/java/org/example/thuchanh/service/SoundAlertService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/mindmap_ss1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/texts/ex1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/texts/ex2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/texts/ex3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS1/src/texts/ex4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/src/main/java/com/demo/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/src/main/java/com/demo/config/WebInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/src/main/java/com/demo/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/src/main/java/com/demo/controller/StudentCardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/src/main/webapp/WEB-INF/views/student-card.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Btth/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/src/main/java/org/example/analysis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/src/main/java/org/example/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/src/main/java/org/example/config/WebInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/src/main/java/org/example/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/src/main/java/org/example/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/src/main/java/org/example/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/src/main/java/org/example/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/src/main/webapp/WEB-INF/views/orders.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex3/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/java/org/example/config/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/java/org/example/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/java/org/example/config/WebInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/java/org/example/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/java/org/example/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/java/org/example/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/java/org/example/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/java/org/example/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/webapp/WEB-INF/views/employee-detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/webapp/WEB-INF/views/employees.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/webapp/WEB-INF/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/webapp/WEB-INF/views/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/webapp/WEB-INF/views/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/Ex5/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/mindmap_ss2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/src/main/java/org/example/ex1/README.rd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/src/main/java/org/example/ex1/config/MyWebAppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/src/main/java/org/example/ex1/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/src/main/webapp/WEB-INF/views/ex2/README.rd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/src/main/webapp/WEB-INF/views/ex2/report.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/src/main/webapp/WEB-INF/views/ex4/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/src/main/webapp/WEB-INF/views/ex4/security_report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS2/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS3-MiniPJ/BTTH/src/main/java/com/demo/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS3-MiniPJ/BTTH/src/main/java/com/demo/config/WebInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS3-MiniPJ/BTTH/src/main/java/com/demo/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS3-MiniPJ/BTTH/src/main/java/com/demo/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS3-MiniPJ/BTTH/src/main/webapp/WEB-INF/views/employee-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/DemoSS4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/DemoSS4/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/DemoSS4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai1/controller/LegacyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai1/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai1/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai2/Screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai2/controller/LegacyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai2/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai2/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai3/README.rd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai3/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai3/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai3/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai4/BanThietKe.rd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai4/Screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai4/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai4/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai4/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai5/README.rd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai5/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai5/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/bai5/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/btth/controller/TableController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/btth/model/RestaurantTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/btth/repository/TableRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/btth/service/TableService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/java/com/restaurant/config/WebInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/webapp/WEB-INF/views/productList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4/ExerciseSS4/src/main/webapp/WEB-INF/views/table-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/ACER/Documents/JavaWeb/SS5" value="3C6Kx8QNlMBnmgzj0fuURa1ltnu" />
+    </persistenceIdMap>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HoHieuThanh"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HoHieuThanh/JavaWeb.git",
+    "accountId": "0d048ada-3daf-47fe-9245-1e51468b5da8"
+  }
+}]]></component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3C6Kx8QNlMBnmgzj0fuURa1ltnu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Gradle.Build SS5.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Tomcat Server.Tomcat 11.0.20.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+          <value>
+            <map>
+              <entry key="Tomcat 11.0.20" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 11.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.20" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="Gradle : com.restaurant : SS5-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="e96fe7b7-1f5a-48e1-a74b-4fdaf6d61587" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49996" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.restaurant : SS5-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2238b50-b304-4a29-8e07-e6b3fc7a58b5" name="Changes" comment="" />
+      <created>1775700829478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775700829478</updated>
+      <workItem from="1775700831446" duration="3123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

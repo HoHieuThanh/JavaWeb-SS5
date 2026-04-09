@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{layout/main-layout}">
+
+<body>
+
+<div layout:fragment="content">
+
+    <h2>Thực đơn ưu đãi</h2>
+
+    <p th:if="${dishes == null or #lists.isEmpty(dishes)}">
+        Hiện chưa có chương trình ưu đãi, quý khách vui lòng quay lại sau!
+    </p>
+
+    <table border="1" th:if="${dishes != null and !#lists.isEmpty(dishes)}">
+        <tr>
+            <th>Tên món</th>
+            <th>Giá gốc</th>
+            <th>Giảm giá</th>
+            <th>Giá sau giảm</th>
+            <th></th>
+        </tr>
+
+        <tr th:each="dish : ${dishes}">
+            <td th:text="${dish.name}"></td>
+
+            <td th:text="${#numbers.formatDecimal(dish.originalPrice, 0, 'COMMA', 0, 'POINT')} + ' VNĐ'"></td>
+
+            <td th:text="${dish.discountPercent + '%'}"></td>
+
+            <td th:text="${#numbers.formatDecimal(dish.originalPrice * (100 - dish.discountPercent) / 100, 0, 'COMMA', 0, 'POINT')} + ' VNĐ'"></td>
+
+            <td>
+                <span th:if="${dish.discountPercent > 20}"
+                      style="color:red; font-weight:bold">
+                    HOT DEAL
+                </span>
+            </td>
+        </tr>
+    </table>
+
+</div>
+
+</body>
+</html>

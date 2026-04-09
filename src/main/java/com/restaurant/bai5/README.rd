@@ -1,0 +1,1 @@
+User -> request /bai5/order -> OrderController (@Controller) -> OrderService (@Service) -> OrderRepository (@Repository - mock data) trả dữ liệu -> OrderService (xử lý tính tổng tiền) -> OrderController (đẩy vào Model) -> Thymeleaf View (order.html)
